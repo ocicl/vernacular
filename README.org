@@ -2,9 +2,8 @@
 
 Module system for languages that compile to Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ruricolist/vernacular.git   |
-| commit  | 79be179  |
-| systems | vernacular |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/ruricolist/vernacular.git |
+| commit  | 3230b19                                          |
+| systems | vernacular                                       |
+|---------+--------------------------------------------------|
